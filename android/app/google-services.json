@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "415921341650",
+    "project_id": "textly-7b1e8",
+    "storage_bucket": "textly-7b1e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415921341650:android:e1490e32698c529888d90b",
+        "android_client_info": {
+          "package_name": "com.textly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDJv4hjK98zSPq7iBCU7ZBrSGLba21Ksk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
